@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOdd", "EvenOdd\EvenOdd.csproj", "{A13F8455-9DB5-4A28-85BA-6BF58419D19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOddTest", "EvenOddTest\EvenOddTest.csproj", "{69E5F014-619F-4BE0-85FB-ADE7FBFB26B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13F8455-9DB5-4A28-85BA-6BF58419D19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13F8455-9DB5-4A28-85BA-6BF58419D19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13F8455-9DB5-4A28-85BA-6BF58419D19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13F8455-9DB5-4A28-85BA-6BF58419D19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E5F014-619F-4BE0-85FB-ADE7FBFB26B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E5F014-619F-4BE0-85FB-ADE7FBFB26B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E5F014-619F-4BE0-85FB-ADE7FBFB26B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E5F014-619F-4BE0-85FB-ADE7FBFB26B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684C4D26-3FCA-49EB-B84F-9CE1146D83E1}
+	EndGlobalSection
+EndGlobal
